@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firstOne/static/css/main.4626bd22.css",
+    "main.js": "/firstOne/static/js/main.e17c01a3.js",
+    "static/js/787.83f7f509.chunk.js": "/firstOne/static/js/787.83f7f509.chunk.js",
+    "index.html": "/firstOne/index.html",
+    "main.4626bd22.css.map": "/firstOne/static/css/main.4626bd22.css.map",
+    "main.e17c01a3.js.map": "/firstOne/static/js/main.e17c01a3.js.map",
+    "787.83f7f509.chunk.js.map": "/firstOne/static/js/787.83f7f509.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4626bd22.css",
+    "static/js/main.e17c01a3.js"
+  ]
+}
